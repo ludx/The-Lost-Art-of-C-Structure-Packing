@@ -417,7 +417,7 @@ clang编译器有个Wpadded选项，可以生成有关对齐和填充的信息�
 
 ## 证明和例外 ##
 
-读者可以下载一段程序源代码packtest.c（http://www.catb.org/esr/structure-packing/packtest.c），验证上文有关标量和结构体尺寸的结论。
+读者可以下载一段程序源代码[packtest.c](http://www.catb.org/esr/structure-packing/packtest.c)，验证上文有关标量和结构体尺寸的结论。
 
 如果你仔细检查各种编译器、选项和罕见硬件的稀奇组合，会发现我前面提到的部分规则存在例外。越早期的处理器设计例外越常见。
 
