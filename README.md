@@ -1,6 +1,7 @@
 # 失传的C结构体打包技艺 #
 
 作者：Eric S. Raymond
+
 原文链接：http://www.catb.org/esr/structure-packing/
 
 ## 谁应阅读本文 ##
