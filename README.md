@@ -349,7 +349,7 @@ struct foo9 {
         char *p;      /* 8 bytes */
         int x;        /* 4 bytes */
     } inner;
-    char c;           /* 1 byte*/
+    char c;           /* 1 byte */
 };
 ~~~
 
@@ -362,7 +362,7 @@ struct foo9 {
         int x;        /* 4 bytes */
         char pad[4];  /* 4 bytes */
     } inner;
-    char c;           /* 1 byte*/
+    char c;           /* 1 byte */
     char pad[7];      /* 7 bytes */
 };
 ~~~
